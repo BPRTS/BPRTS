@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <span style="padding: 10px; background: green;">Test</span>
-<div style="padding: 10px; background: green;">Test</div>
+<div style="padding: 10px; color: green;">Test</div>
 
 
 
