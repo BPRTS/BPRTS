@@ -5,7 +5,7 @@
 <span style="padding: 10px; background: green;">Test</span>
 <div style="padding: 10px; color: green;">Test</div>
 
-<a href="https://github.com/BPRTS">BPRTS</a>
+<a href="https://github.com/BPRTS" style="text-decoration: none; color: white;">BPRTS</a>
 
 
 
